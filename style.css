@@ -1,0 +1,117 @@
+.img-responsive {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.carousel-caption {
+    bottom: 0px;
+}
+
+.barva {
+    background-color: #505050;
+    
+    border: 2px solid 
+    border-radius: 5px;
+    color: darkgoldenrod;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px; 
+}
+
+
+h2 {
+    
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+
+h3 {
+    
+    font-family: cursive;
+    font-size: 25px;
+    color:darkgoldenrod;
+}
+
+h4 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.praznik {
+    color: darkgoldenrod;
+}
+    
+.noga {
+    color: black;
+}
+
+.noga2 {
+    color: darkgoldenrod;
+}
+
+.noga2 a {
+    color: darkgoldenrod;
+}
+
+.navbar-inverse .navbar-brand:hover, 
+.navbar-inverse .navbar-brand:focus {
+    background-color: transparent;
+    color: darkgoldenrod;
+}
+
+.navbar-inverse .navbar-brand {
+    color: darkgoldenrod;
+    font-family: sans-serif;
+    text-shadow: 
+    1px 1px 0 white,
+}
+
+
+.caption li {
+    text-align: center;   
+}
+
+
+strong {
+    color: black;
+    font-family: cursive;
+    font-size: 15px;
+    text-align: center;
+}
+
+.table {
+    background-color: silver;
+    overflow:hidden;
+    border-radius: 5px;   
+    
+}
+
+.table th {
+    
+    text-align: center;
+    color: black;
+}
+    
+.table td {
+    
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 16px;
+}
+    
+.checkbox {
+    
+    color: white;
+    font-family: cursive;
+    font-size: 16px;
+}
